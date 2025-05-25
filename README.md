@@ -1,0 +1,2 @@
+# hashing
+aplikasi hashing
